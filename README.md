@@ -55,7 +55,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaheirAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ashraf" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TaheirAhmedAshraf&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
